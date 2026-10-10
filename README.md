@@ -5,6 +5,17 @@
 
 ---
 
+### 🌐 Quick Access & Website URLs
+
+| Service | URL | Status |
+|---|---|---|
+| **Web Application** | [http://localhost:5173/](http://localhost:5173/) | Active Local Demo |
+| **Backend API** | [http://localhost:5000/api](http://localhost:5000/api) | Live |
+| **Health & Database Status** | [http://localhost:5000/api/health](http://localhost:5000/api/health) | Live |
+| **GitHub Repository** | [https://github.com/riddhilahoti-12/KaizenTrace_demo](https://github.com/riddhilahoti-12/KaizenTrace_demo) | Main |
+
+---
+
 ## 1. Features & Capabilities
 
 - **Interactive Workspace Dashboard**: Real-time delivery statistics, task completion rates, overdue work alerts, and interactive charts built with Recharts.
